@@ -4,4 +4,6 @@
 *.json
 .ipynb_checkpoints/**
 working_data/**
+working_data/*_*
 source_data/**
+source_data/*_*
