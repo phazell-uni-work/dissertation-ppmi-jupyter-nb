@@ -2,3 +2,6 @@
 *.xls
 *.xlsx
 *.json
+.ipynb_checkpoints/**
+working_data/**
+source_data/**
