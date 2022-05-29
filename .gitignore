@@ -5,5 +5,6 @@
 .ipynb_checkpoints/**
 working_data/**
 working_data/*_*
+source_data/\!*.txt
 source_data/**
 source_data/*_*
