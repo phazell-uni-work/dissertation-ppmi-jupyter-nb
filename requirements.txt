@@ -2,3 +2,5 @@ jupyterlab
 scikit-learn
 optunity
 pandas
+torch
+torchvision
