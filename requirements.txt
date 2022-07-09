@@ -4,3 +4,4 @@ optunity
 pandas
 torch
 torchvision
+xgboost
